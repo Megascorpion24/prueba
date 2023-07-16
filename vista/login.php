@@ -30,7 +30,9 @@
 					<i class="fas fa-lock"></i>
 				</div>
 				<div class="div">
-					<h5>Contraseña</h5>
+					<h5>holllaaaaa</h5>
+				
+			
 						<input id="password" type="password" name="password" class="input"/>
 				</div>
 			</div>
